@@ -9,8 +9,8 @@
         <module name="flink_table_and_sql" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="flink_table_and_sql" target="1.5" />
+    <bytecodeTargetLevel target="8">
+      <module name="flink_table_and_sql" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
